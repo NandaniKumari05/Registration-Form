@@ -1,5 +1,5 @@
 # Registration-Form
-This is a Responsive Registration Form built using HTML.
+This is a Responsive Registration Form built using HTML and CSS.
 Users can submit their Name, Email, Phone, DOB, Gender, and Course deatails through the form.
 
 #Features
@@ -13,5 +13,5 @@ Fully Responsive Design for Mobile and Desktop
 
 #Technology used
 'HTML5'
-
+CSS3
 
